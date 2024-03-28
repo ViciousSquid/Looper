@@ -1,5 +1,5 @@
 # Looper
-Record and loop audio
+Record and loop audio - low latency!
 
 ![image](https://github.com/ViciousSquid/Looper/assets/161540961/71fbc7c9-719d-43e1-aafa-44eacbd53fcf)
 
